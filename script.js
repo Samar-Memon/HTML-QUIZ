@@ -1,6 +1,6 @@
-// let userName = prompt("Enter your Name");
-// document.getElementById("userName").innerText = (`Hello! ("${userName}") Start the Playing Quiz`);
-// console.log(userName);
+let userName = prompt("Enter your Name");
+document.getElementById("userName").innerText = (`Hello! ("${userName}") Start the Playing Quiz`);
+console.log(userName);
 const questions = [
     {
         "que" : "What does HTML stand for?",
