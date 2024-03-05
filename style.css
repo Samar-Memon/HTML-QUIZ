@@ -19,6 +19,7 @@
     left: 12px;
 }
 #homeTitle{
+    margin-top: 70px;
     margin-bottom: 50px;
     background-color: #000;
     border-radius: 20px;
@@ -59,13 +60,6 @@
     cursor: pointer;
     margin-top: 20px;
     border-radius: 10px;
-}
-footer{
-    /* align-self: flex-start; */
-    position: absolute;
-    bottom: 20px;
-    left: 20px;
-    font-size: 24px;
 }
 @media (max-width: 1300px){
     #headQue{
